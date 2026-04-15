@@ -1,2 +1,2 @@
-# IICS_Mappiong
+# IICS_Mapping
 iics
